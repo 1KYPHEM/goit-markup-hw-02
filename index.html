@@ -3,6 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- На одному рівні з index.html створюється папка css, а всередині неї файл стилів styles.css.
+У тегу <head> створений раніше файл styles.css додається за допомогою тегу <link>.
+В атрибуті href вказується відносний шлях до файлу стилів HTML-документа.
+В атрибуті rel вказується тип документа, що додається — stylesheet (таблиця стилів). -->
+
+  <link rel="stylesheet" href="./css/styles.css" />
   <title>Web Studio</title>
 </head>
 <body>
@@ -29,7 +36,7 @@
     <!-- Інформація хто де байдикує, та які вказівки роздає -->
   <main>
      <!-- Секція нижче, заголовок, та кнопка Order Service -->
-    <section>
+    <section style="testad">
       <h1>Effective Solutions
         for Your Business</h1>
         <button type="button">Order Service</button>
