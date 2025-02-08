@@ -1,12 +1,10 @@
 /* #region  */
 /* #endregion  */
-font-family: "Raleway", sans-serif;
-font-family: "Roboto", sans-serif;
 
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #fff;
+  background-color: #FFFFFF;
 }
 
 ul, ol {
@@ -23,7 +21,7 @@ a {
   font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.17;
+line-height: 1.07;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -34,7 +32,6 @@ color: #4d5ae5;
 .header-logo .text-studio {
   color: #2e2f42;
 }
-
 
 .text-header-studio {
   color: #2e2f42;
@@ -99,6 +96,7 @@ background: #4d5ae5;
 .hero-btn:hover,
 .hero-btn:focus {
   color: #fff;
+  cursor: pointer;
   background: #404bbf;
 }
 
@@ -141,7 +139,7 @@ color: #434455;
   font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
@@ -151,6 +149,7 @@ color: #2e2f42;
 }
 
 .inform-list-item {
+  background-color: #FFFFFF
 }
 
 .inform-item-title {
@@ -192,6 +191,7 @@ color: #2e2f42;
 .portfolio-list {
 }
 .portfolio-list-item {
+  background-color: #FFFFFF
 }
 .portfolio-item-title {
   font-family: "Roboto", sans-serif;
@@ -237,11 +237,11 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: #f4f4fd;
 }
 
 .footer {
   background: #2e2f42;
 }
-
 
 /* #endregion footer */
