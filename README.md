@@ -150,3 +150,100 @@
 	  </ul>
 	</footer>
 	
+
+
+	
+<!-- #region Our portfolio -->
+<section class="portfolio">
+  <h2 class="portfolio-title">Our Portfolio</h2>
+   <ul class="portfolio-list">
+    <li class="portfolio-list-item">
+      <img src="./images/img-banking.jpg" alt="Mark Guerrero" width="360" height="300">
+      <h3 class="portfolio-item-title">Banking App</h3>
+      <p class="portfolio-item-text">App</p>
+    </li>
+
+    <li class="portfolio-list-item">
+      <img src="./images/img-ihone.jpg" alt="Mark Guerrero" width="360" height="300">
+      <h3 class="portfolio-item-title">Cashless Payment</h3>
+      <p class="portfolio-item-text">Marketing</p>
+    </li>
+
+    <li class="portfolio-list-item">
+      <img src="./images/img-macbook.jpg" alt="Mark Guerrero" width="360" height="300">
+      <h3 class="portfolio-item-title">Meditation App</h3>
+      <p class="portfolio-item-text">App</p>
+    </li>
+
+    <li class="portfolio-list-item">
+      <img src="./images/img-car.jpg" alt="Tom Ford" width="360" height="300">
+      <h3 class="portfolio-item-title">Taxi Service</h3>
+      <p class="portfolio-item-text">Marketing</p>
+    </li>
+
+    <li class="portfolio-list-item">
+      <img src="./images/img-android.jpg" alt="Camila Garcia" width="360" height="300">
+      <h3 class="portfolio-item-title">Screen Illustrations</h3>
+      <p class="portfolio-item-text">Design</p>
+    </li>
+
+    <li class="portfolio-list-item">
+      <img src="./images/img-gerl.jpg" alt="Daniel Wilson" width="360" height="300">
+      <h3 class="portfolio-item-title">Online Courses</h3>
+      <p class="portfolio-item-text">Marketing</p>
+    </li>
+  </ul>
+</section>
+<!-- #endregion Our Portfolio -->
+
+
+
+css//////////////////
+
+/* #region Our portfolio */
+
+
+.portfolio {
+}
+.portfolio-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+  background-color: #FFFFFF
+}
+.portfolio-item-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-item-text {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+
+/* #endregion Our portfolio */
