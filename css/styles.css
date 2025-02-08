@@ -18,10 +18,10 @@ a {
  /* #region header */
 
 .logo {
-  font-family: "Raleway", sans-serif;
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.17
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -78,7 +78,7 @@ color: #fff;
   font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -112,11 +112,11 @@ background: #4d5ae5;
 }
 .benefits-item-title {
   font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.07
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .benefits-items-text {
   font-family: "Roboto", sans-serif;
@@ -137,13 +137,14 @@ color: #434455;
 
 .inform-title {
   font-family: "Roboto", sans-serif;
-  text-transform: capitalize
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
+
 }
 
 .inform-list {
@@ -177,7 +178,15 @@ color: #434455;
 
 /* #region footer */
 
-.logo {}
+.logo {
+  font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
 
 .footer-logo .text-studio {
   color: #f4f4fd;
@@ -185,11 +194,11 @@ color: #434455;
 
 .footer-item-text {
   font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.17
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 
 .footer {
