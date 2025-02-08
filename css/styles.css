@@ -1,9 +1,247 @@
-p {
-    background-color: tomato;
-    color: rgb(174, 0, 255);
-  }
-  .testad {
-    header {
-        background-color: rgb(11, 219, 105);
-      }
-  }
+/* #region  */
+/* #endregion  */
+font-family: "Raleway", sans-serif;
+font-family: "Roboto", sans-serif;
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+ul, ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ /* #region header */
+
+.logo {
+  font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.header-logo {}
+
+.header-logo .text-studio {
+  color: #2e2f42;
+}
+
+
+.text-header-studio {
+  color: #2e2f42;
+}
+
+.nav-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.nav-address {
+  font-style: normal;
+}
+
+.address-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+
+.main-text {
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.hero {
+  background: #2e2f42;
+}
+.hero-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.hero-btn {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background: #4d5ae5;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #fff;
+  background: #404bbf;
+}
+
+/* #endregion header */
+
+/* #region benefits */
+
+.benefits {
+}
+.benefits-list {
+}
+.benefits-list-item {
+}
+.benefits-item-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.benefits-items-text {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* #endregion benefits */
+
+/* #region inform */
+
+.inform {
+  background: #f4f4fd;
+}
+
+.inform-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.inform-list {
+}
+
+.inform-list-item {
+}
+
+.inform-item-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.inform-item-text {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+/* #endregion inform */
+
+/* #region Our portfolio */
+
+
+.portfolio {
+}
+.portfolio-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-item-title {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-item-text {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+
+/* #endregion Our portfolio */
+
+
+/* #region footer */
+
+.logo {}
+
+.footer-logo .text-studio {
+  color: #f4f4fd;
+}
+
+.footer-item-text {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.footer {
+  background: #2e2f42;
+}
+
+
+/* #endregion footer */
